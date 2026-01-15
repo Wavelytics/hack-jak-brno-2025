@@ -28,5 +28,5 @@ pip install -r requirements.txt
 
 ### 2) Spusť
 ```bash
-python pywo_demo.py
+python pyvo_demo.py
 ```
