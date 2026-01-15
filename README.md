@@ -6,7 +6,7 @@ Jednoduché demo, které:
 - vykresluje landmarky (zelené body) přímo do obrazu,
 - zobrazuje živé okno s náhledem.
 
-Soubor: `pywo_demo.py`
+Soubor: `pyvo_demo.py`
 
 ## Požadavky
 - Python 3.9+ (doporučeno)
